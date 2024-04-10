@@ -5,11 +5,7 @@
 }
 
 body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	height: 100vh;
 	font-family: 'Monserrat', sans-serif;
-	background-color: #29303B;
 }
 
